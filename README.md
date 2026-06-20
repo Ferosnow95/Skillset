@@ -1,8 +1,8 @@
 # Skillset
 
-A curated, verified collection of **Claude Code skills for product designers who want to build** — vendored from their original public sources, organized by theme, and documented so each entry can later become a Notion page.
+**Ali Zafar's personal skill pack** — a curated, verified collection of Claude Code skills I keep updated as I experiment with projects and refine my workflows. Vendored from their original public sources, organized by theme, and documented so each entry can later become a Notion page.
 
-The catalog is adapted from Flora Ghnassia's [Claude Code Skills for Product Designers who want to build](https://floraghnassia.notion.site/Claude-Code-Skills-for-Product-Designers-who-want-to-build-3742aec4753680bf89f9c8bd51b318d8), with sources independently verified and full skill folders vendored where the source is openly licensed.
+This is a living repo: I add, swap, and prune skills as my work evolves. The initial catalog is adapted from Flora Ghnassia's [Claude Code Skills for Product Designers who want to build](https://floraghnassia.notion.site/Claude-Code-Skills-for-Product-Designers-who-want-to-build-3742aec4753680bf89f9c8bd51b318d8), with sources independently verified and full skill folders vendored where the source is openly licensed.
 
 ## How this repo is organized
 
